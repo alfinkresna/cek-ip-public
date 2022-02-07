@@ -5,7 +5,7 @@ puts '''
 
      >> Cek IP Address Public <<
 	 
-          Created by Alfin   
+           Created by Alfin   
 '''
 puts()
 puts()
