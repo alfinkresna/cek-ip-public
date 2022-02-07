@@ -1,13 +1,11 @@
-# alfin
+# Author : Alfin
 require 'httparty'
 
 def main
 
 puts '''
 
-     >> Cek IP Address Sendiri <<
-
-             Hanya Test
+     >> Cek IP Address Public <<
         
 '''
 
